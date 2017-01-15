@@ -1,4 +1,4 @@
 SimpleIphoneSoapClient
 ======================
 
-Ios Soap Client
+Ios 4 Iphone postcode lookup Soap Client.
